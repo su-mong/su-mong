@@ -32,7 +32,7 @@ Flutter 앱 개발자 우수몽입니다.
 ### 👨‍💻 Career
 
 - **[Klleon](https://www.klleon.io/about) Flutter 앱 개발자(2025.10.01 ~ )**
-- [중고나라](https://web.joongna.com/) Flutter 앱 개발자(2024.11.11 ~ 2025.09.20)
+- **[중고나라](https://web.joongna.com/)** Flutter 앱 개발자(2024.11.11 ~ 2025.09.20)
 - [주식회사 마이스맥스](https://mysmax.kr/) Flutter 앱 개발자(2024.04.24 ~ 2024.09.30)
 - [이젠아카데미 dx교육센터](https://www.ezenac.co.kr/) 강남본원 튜터 (2024.06.26 ~ 2024.08.31)
 - 스타트업 ['Wiiee'](https://wiiee.oopy.io/) Flutter 앱 개발자(2023.06.08 ~ 2024.04.19)
@@ -42,11 +42,11 @@ Flutter 앱 개발자 우수몽입니다.
     [앱 : Flutter / 서버 : Nest.js, MySQL, TypeORM / 어드민 : React -> Flutter]
 - 점심시간 매칭 플랫폼 'TimeSeller' 개발팀장.(2021.07.01 ~ 2021.11.30)<br>
   프로젝트 관리 및 앱 개발을 맡았습니다. [Flutter]
-- 빅데이터 기반의 모빌리티 광고 플랫폼 **['캐시카플러스'](https://www.cashcarplus.com/)** 안드로이드 앱 개발 및 퍼블리싱.(2021.04.01 ~ 2021.07.31) [Kotlin, Android]
+- 빅데이터 기반의 모빌리티 광고 플랫폼 ['캐시카플러스'](https://www.cashcarplus.com/) 안드로이드 앱 개발 및 퍼블리싱.(2021.04.01 ~ 2021.07.31) [Kotlin, Android]
 - 안드로이드/Flutter 외주 개발자(2020.01.01 ~ 2020.12.31)
   - 콘텐츠 크리에이터의 공간 플랫폼 ['Billyo의 파트너스 앱'](https://play.google.com/store/apps/details?id=com.billyo.billyo_partners&hl=ko&gl=US) 개발 [Flutter]
-- **스타트업 'Individual Car' CTO 겸 개발자 ( 2016.05.01 ~ 2019.08.01 ).**
-  - 자동차 튜닝 관련 플랫폼 서비스 **['Indicar Tuning'](https://www.youtube.com/watch?v=g9795DsJ4Js)** 개발. [Java, Android]
+- 스타트업 'Individual Car' CTO 겸 개발자 ( 2016.05.01 ~ 2019.08.01 ).
+  - 자동차 튜닝 관련 플랫폼 서비스 ['Indicar Tuning'](https://www.youtube.com/watch?v=g9795DsJ4Js) 개발. [Java, Android]
 - 그 외 다수의 외주 개발 경험 있음.
 
 ### 🏆 Prize
