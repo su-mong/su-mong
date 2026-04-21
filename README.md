@@ -31,7 +31,8 @@ Flutter 앱 개발자 우수몽입니다.
 
 ### 👨‍💻 Career
 
-- **[Klleon](https://www.klleon.io/about) Flutter 앱 개발자(2025.10.01 ~ 2026.01.31)**
+- **[Draftify](https://draftify.notion.site/) 소프트웨어 엔지니어. Flutter 앱, 게임모드 개발 담당 (2026.04.21 ~ )**
+- [Klleon](https://www.klleon.io/about) Flutter 앱 개발자(2025.10.01 ~ 2026.01.31)
 - **[중고나라](https://web.joongna.com/)** Flutter 앱 개발자(2024.11.11 ~ 2025.09.20)
 - [주식회사 마이스맥스](https://mysmax.kr/) Flutter 앱 개발자(2024.04.24 ~ 2024.09.30)
 - [이젠아카데미 dx교육센터](https://www.ezenac.co.kr/) 강남본원 튜터 (2024.06.26 ~ 2024.08.31)
