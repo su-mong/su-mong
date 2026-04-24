@@ -16,18 +16,17 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sumong-app)](www.linkedin.com/in/sumong-app)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mbpsolamsider@gmail.com)](mailto:mbpsolamsider@gmail.com)
 
-## 안드로이드/하이브리드 앱 개발자, 프론트엔드 엔지니어, 주니어 백엔드 개발자
+## Flutter 앱개발자, 게임 모드 개발자
 
-Flutter 앱 개발자 우수몽입니다.
+안녕하세요! 개발자 우수몽입니다.
 
 프론트엔드로는 **Flutter,** **코틀린(+자바)** 을 주로 사용하고,
 
 백엔드로는 **Nest.js(with TypeORM)** 와 **MySQL**을 주로 사용합니다.
 
-흥미로운 아이템과 아이디어에 관심이 많습니다.
+최근엔 게임 모드 개발 쪽에서도 일하고 있습니다.
 
-(⚡ Fun fact: 경력에 따로 적진 않았지만, 은근슬쩍 블록체인을 한 경험이 꽤 있습니다. 졸업작품도 블록체인 쪽이었고, 이전에 NFT 프로젝트 팀에 들어가서 NFT 개발 및 퍼블리싱을 담당했었습니다. 하지만 이젠 안 합니다. 재미가 없어요....)
-
+흥미로운 아이템과 아이디어에 관심이 많고, 엔터테인먼트 쪽을 특히 좋아합니다.
 
 ### 👨‍💻 Career
 
