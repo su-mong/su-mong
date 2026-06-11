@@ -20,18 +20,17 @@ Here are some ideas to get you started:
 
 안녕하세요! 개발자 우수몽입니다.
 
-프론트엔드로는 **Flutter,** **코틀린(+자바)** 을 주로 사용하고,
+주력 언어 : **Flutter**, **C#**
+(C#은 게임 모드 개발 시에 사용합니다.)
 
-백엔드로는 **Nest.js(with TypeORM)** 와 **MySQL**을 주로 사용합니다.
+가능 언어(상황에 맞춰 사용합니다) : Kotlin, Java, Node.js, MySQL, Phtyon 등
 
-최근엔 게임 모드 개발 쪽에서도 일하고 있습니다.
-
-흥미로운 아이템과 아이디어에 관심이 많고, 엔터테인먼트 쪽을 특히 좋아합니다.
+흥미로운 아이템과 아이디어에 관심이 많습니다. 특히 엔터테인먼트 분야에 관심이 많고, 좋아합니다.
 
 ### 👨‍💻 Career
 
 - **[Draftify](https://draftify.notion.site/) 소프트웨어 엔지니어. Flutter 앱, 게임모드 개발 담당 (2026.04.21 ~ )**
-- [Klleon](https://www.klleon.io/about) Flutter 앱 개발자(2025.10.01 ~ 2026.01.31)
+- AI 스타트업 Flutter 앱 개발자(2025.10.01 ~ 2026.01.31)
 - **[중고나라](https://web.joongna.com/)** Flutter 앱 개발자(2024.11.11 ~ 2025.09.20)
 - [주식회사 마이스맥스](https://mysmax.kr/) Flutter 앱 개발자(2024.04.24 ~ 2024.09.30)
 - [이젠아카데미 dx교육센터](https://www.ezenac.co.kr/) 강남본원 튜터 (2024.06.26 ~ 2024.08.31)
@@ -84,6 +83,8 @@ Here are some ideas to get you started:
 
 ### 📝 Blog
 
+[LinkedIn](https://www.linkedin.com/in/sumong-app/)
+
 [개발 관련 자료 정리 & 모음](https://www.notion.so/b927103c6b7f42a4aaf5da88b07cefa3)
 
 [sumong : Velog](https://velog.io/@sumong)
@@ -95,22 +96,6 @@ Here are some ideas to get you started:
 맨 위 Notion Page는 보기 쉽게 개발 관련해서 공부한 것들을 핵심만 정리한 것입니다.
 
 현재는 가운데의 velog를 주로 사용하고 있습니다. 아래 네이버 블로그는 이전에 사용하던 것입니다.
-
----
-
-## 📚 Stack
-
-다룰 수 있는 기술/언어들입니다.
-
-- Flutter
-- Java(안드로이드)
-- Kotlin(안드로이드)
-- Nest.js / TypeORM
-- MySQL
-- Solidity
-- React
-- Flask / Django
-- git
 
 ---
 
